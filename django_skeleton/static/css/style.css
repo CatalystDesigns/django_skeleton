@@ -1,3 +1,7 @@
-body {
-    background: turquoise;
+body {}
+
+#logo {
+    max-width: 50px;
+    height: auto;
+    margin: 10px;
 }
